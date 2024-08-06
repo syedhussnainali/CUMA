@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/syedhussnainali/CUMA-Backend.git
+[submodule "database"]
+	path = database
+	url = https://github.com/syedhussnainali/CUMA-Database.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/syedhussnainali/CUMA-Frontend.git
